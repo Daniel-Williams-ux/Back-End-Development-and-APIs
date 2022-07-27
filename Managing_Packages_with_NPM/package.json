@@ -28,7 +28,7 @@ Note: Remember that you’re writing JSON, so all field names must use double-qu
 
 {
 	"name": "fcc-learn-npm-package-json",
-  "author": "Daniel Williams",
+        "author": "Daniel Williams",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
