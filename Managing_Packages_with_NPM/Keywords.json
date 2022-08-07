@@ -7,3 +7,12 @@
 //Add an array of suitable strings to the keywords field in the package.json file of your project.
 
 //One of the keywords should be "freecodecamp".
+
+{
+ "author": "Daniel Williams",
+ "description": "A project that shows package.json",
+ "keywords": [ "learn", "freecodecamp", "packages" ],
+ "dependencies": {
+  "express": "^4.18.1"
+ }
+}
